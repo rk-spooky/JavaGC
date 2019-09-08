@@ -1,0 +1,7 @@
+Jstat commands
+
+jps
+jstat -gcutil [pid]
+jstat -gccause [pid]
+jstat -gccapacity [pid]
+jstat [pid] [interval] [count]
